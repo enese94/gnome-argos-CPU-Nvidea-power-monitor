@@ -1,0 +1,13 @@
+[Icon Theme]
+Name=WattimetroIcons
+Comment=Ícones personalizados para a extensão Wattímetro.
+Inherits=Adwaita,hicolor
+
+# Secção para declarar explicitamente os nossos diretórios
+Directories=scalable/actions
+
+# Definição do nosso diretório de ícones
+[scalable/actions]
+Size=16
+Type=Scalable
+Context=Actions
