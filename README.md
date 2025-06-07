@@ -54,6 +54,4 @@ Para que tudo funcione, precisa de ter o seguinte instalado:
     ```
     Lembre-se também de alterar a linha `current_energy=$(sudo ...)` no script `cpu-power.5s.sh`.
 
-## Agradecimentos
 
-Este projeto foi desenvolvido com a ajuda da IA Gemini da Google, através de um longo processo de depuração e colaboração.
